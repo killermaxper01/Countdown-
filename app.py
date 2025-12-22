@@ -4,7 +4,7 @@ import os
 app = Flask(__name__)
 
 # API key from environment variable (IMPORTANT for security)
-API_KEY = "AIzaSyAxC1aZ0zbCta0k1ebTIDvBpB-uTXjFVGg"
+API_KEY = "AIzaSyAxC1aZ0zXjFVGg"
 
 MODEL = "gemini-2.5-flash-native-audio-preview-12-2025"
 
